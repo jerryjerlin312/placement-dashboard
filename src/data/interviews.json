@@ -1,0 +1,38 @@
+[
+  {
+    "id": 201,
+    "applicationId": 102,
+    "round": "Technical Round 1",
+    "date": "2026-10-14",
+    "time": "10:30",
+    "mode": "Online",
+    "link": "https://meet.example.com/zoho-r1"
+  },
+  {
+    "id": 202,
+    "applicationId": 104,
+    "round": "Technical Round 1",
+    "date": "2026-10-16",
+    "time": "14:00",
+    "mode": "Offline",
+    "venue": "Freshworks Campus, Guindy, Chennai"
+  },
+  {
+    "id": 203,
+    "applicationId": 102,
+    "round": "HR Round",
+    "date": "2026-10-21",
+    "time": "11:00",
+    "mode": "Online",
+    "link": "https://meet.example.com/zoho-hr"
+  },
+  {
+    "id": 204,
+    "applicationId": 103,
+    "round": "HR Round",
+    "date": "2026-10-06",
+    "time": "09:30",
+    "mode": "Offline",
+    "venue": "TCS Office, Siruseri, Chennai"
+  }
+]

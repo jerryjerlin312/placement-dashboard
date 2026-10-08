@@ -1,0 +1,15 @@
+{
+  "monthlyTrends": [
+    { "month": "Jun", "placed": 12 },
+    { "month": "Jul", "placed": 20 },
+    { "month": "Aug", "placed": 35 },
+    { "month": "Sep", "placed": 48 },
+    { "month": "Oct", "placed": 30 }
+  ],
+  "companyWise": [
+    { "company": "TCS", "placed": 40 },
+    { "company": "Infosys", "placed": 28 },
+    { "company": "Zoho", "placed": 10 },
+    { "company": "Wipro", "placed": 22 }
+  ]
+}

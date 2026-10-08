@@ -1,0 +1,26 @@
+[
+  {
+    "id": 301,
+    "type": "Interview",
+    "title": "Interview scheduled",
+    "message": "Zoho Technical Round 1 is on 14 Oct at 10:30 AM.",
+    "date": "2026-10-08",
+    "read": false
+  },
+  {
+    "id": 302,
+    "type": "Company",
+    "title": "Infosys updated eligibility",
+    "message": "Backlog criteria revised for the Software Engineer role.",
+    "date": "2026-10-06",
+    "read": false
+  },
+  {
+    "id": 303,
+    "type": "Announcement",
+    "title": "Placement drive next week",
+    "message": "Pre-placement talk in the main auditorium.",
+    "date": "2026-10-05",
+    "read": true
+  }
+]

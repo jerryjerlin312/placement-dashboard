@@ -1,0 +1,8 @@
+[
+  { "id": 101, "jobId": 1, "appliedOn": "2026-09-28", "status": "Under Review" },
+  { "id": 102, "jobId": 2, "appliedOn": "2026-09-30", "status": "Shortlisted" },
+  { "id": 103, "jobId": 3, "appliedOn": "2026-10-02", "status": "Selected" },
+  { "id": 104, "jobId": 6, "appliedOn": "2026-10-03", "status": "Shortlisted" },
+  { "id": 105, "jobId": 4, "appliedOn": "2026-10-05", "status": "Applied" },
+  { "id": 106, "jobId": 7, "appliedOn": "2026-09-25", "status": "Rejected" }
+]
